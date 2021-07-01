@@ -1,7 +1,7 @@
 # A food recipe app 🥣
 ## I regularly google for recipes. So I made something to make that easier 😃
 
-#Get started
+# Get started
 In the project directory, you can run:
 
 ### `npm start`
