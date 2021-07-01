@@ -1,6 +1,6 @@
 # A food recipe app 🥣
 ## I regularly google for recipes. So I made something to make that easier 😃
-# Get it here [link to the recipe app](http://alexrecipes.netlify.app)
+# Get it here [recipe app](http://alexrecipes.netlify.app)
 
 OR 
 
