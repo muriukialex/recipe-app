@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid rgb(236, 230, 230);
+  width: auto;
+  height: auto;
+  padding: 2em;
+  margin: 10px;
+}
+li {
+  list-style: none;
+}
+.card:hover {
+  background-color: rgb(250, 245, 245);
+}
