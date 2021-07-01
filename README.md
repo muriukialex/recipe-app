@@ -2,6 +2,8 @@
 ## I regularly google for recipes. So I made something to make that easier 😃
 # Get it here [link to the recipe app](http://alexrecipes.netlify.app)
 
+OR 
+
 # Get started
 In the project directory, you can run:
 
