@@ -1,5 +1,6 @@
 # A food recipe app 🥣
 ## I regularly google for recipes. So I made something to make that easier 😃
+# Get it here [link to my recipe app](alexrecipes.netlify.app)
 
 # Get started
 In the project directory, you can run:
