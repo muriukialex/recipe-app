@@ -1,5 +1,5 @@
-#A food recipe app 🥣
-##I regularly google for recipes. So I made something to make that easier 😃
+# A food recipe app 🥣
+## I regularly google for recipes. So I made something to make that easier 😃
 
 #Get started
 In the project directory, you can run:
